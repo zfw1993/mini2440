@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/7th-chr_dev_drv_all/buttons_all.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/7th-chr_dev_drv_all/buttons_all.ko /work/drivers_new/7th-chr_dev_drv_all/buttons_all.o /work/drivers_new/7th-chr_dev_drv_all/buttons_all.mod.o

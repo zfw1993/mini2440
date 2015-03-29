@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/16th-virt_net/virt_net.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/16th-virt_net/virt_net.ko /work/drivers_new/16th-virt_net/virt_net.o /work/drivers_new/16th-virt_net/virt_net.mod.o

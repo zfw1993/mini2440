@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/21th_i2c_drv/1th_i2c_new_device/at24cxx_dev.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/21th_i2c_drv/1th_i2c_new_device/at24cxx_dev.ko /work/drivers_new/21th_i2c_drv/1th_i2c_new_device/at24cxx_dev.o /work/drivers_new/21th_i2c_drv/1th_i2c_new_device/at24cxx_dev.mod.o

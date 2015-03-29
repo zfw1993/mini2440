@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/11th-ts/touch.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/11th-ts/touch.ko /work/drivers_new/11th-ts/touch.o /work/drivers_new/11th-ts/touch.mod.o

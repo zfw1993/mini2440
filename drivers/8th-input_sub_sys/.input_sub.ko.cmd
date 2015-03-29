@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/8th-input_sub_sys/input_sub.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/8th-input_sub_sys/input_sub.ko /work/drivers_new/8th-input_sub_sys/input_sub.o /work/drivers_new/8th-input_sub_sys/input_sub.mod.o

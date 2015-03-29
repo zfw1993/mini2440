@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/5th-异步通知/asyn.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/5th-异步通知/asyn.ko /work/drivers_new/5th-异步通知/asyn.o /work/drivers_new/5th-异步通知/asyn.mod.o

@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/2th-查询/second_drv.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/2th-查询/second_drv.ko /work/drivers_new/2th-查询/second_drv.o /work/drivers_new/2th-查询/second_drv.mod.o

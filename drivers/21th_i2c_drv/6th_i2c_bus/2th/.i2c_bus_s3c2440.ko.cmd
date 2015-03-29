@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/21th_i2c_drv/6th_i2c_bus/2th/i2c_bus_s3c2440.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/21th_i2c_drv/6th_i2c_bus/2th/i2c_bus_s3c2440.ko /work/drivers_new/21th_i2c_drv/6th_i2c_bus/2th/i2c_bus_s3c2440.o /work/drivers_new/21th_i2c_drv/6th_i2c_bus/2th/i2c_bus_s3c2440.mod.o

@@ -1,0 +1,1 @@
+cmd_/work/drivers_new/14th-nand/s3c_nand.ko := arm-linux-ld -EL -r  -T /work/system/linux-3.4.2/scripts/module-common.lds --build-id  -o /work/drivers_new/14th-nand/s3c_nand.ko /work/drivers_new/14th-nand/s3c_nand.o /work/drivers_new/14th-nand/s3c_nand.mod.o

@@ -1,0 +1,2 @@
+/work/drivers_new/21th_i2c_drv/2th_i2c_new_probed_device/at24cxx_drv.ko
+/work/drivers_new/21th_i2c_drv/2th_i2c_new_probed_device/at24cxx_drv.o
